@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[Black Headphone Illustration Music YouTube Channel Art (3)](https://user-images.githubusercontent.com/97366282/152912292-ef507d1e-b17e-420b-a1a3-0c1e42580eeb.png)
+
 **heydrdev/heydrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
