@@ -7,9 +7,7 @@
 <a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src=https://github.com/nishantkantojha/tools/blob/main/Icons/twitter.svg alt="garudaa" height="30" width="40" /></a>
 <h1 align="center">Motivation</h1>
 
-<h4 align="center">
- It is not the language that makes program appear simple. It is the programmer that makes the language appear simple!
-</h4>
+<img aligin="center" src="https://visitor-badge.glitch.me/badge?page_id=nishantkantojha/nishantkantojha" alt="motivation"/>
 </p>
 <p align ="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=nishantkantojha/nishantkantojha" alt="visitor badge"/></p>
