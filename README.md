@@ -1,5 +1,4 @@
-[![GitHub (2)](https://user-images.githubusercontent.com/97366282/175751978-fb0c581a-7488-4ca1-b2a2-c7b1b4a17973.png)](https://twitter.com/heydrdev)
-
+![I am not alone, I have my curiosity with me !](https://user-images.githubusercontent.com/97366282/175754587-0f292172-dfbb-49ef-ac45-56afd1149629.png)
 
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="40" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="40" />.</h1>
 <p align="center">
