@@ -9,5 +9,7 @@
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.png" alt="heydrdev"  width="40" /></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width="500" /></a>
+<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=400" /></a>&nbsp&nbsp
+ <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="400" /></a>
 </p>
+
