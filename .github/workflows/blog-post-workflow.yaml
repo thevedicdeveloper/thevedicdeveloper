@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: heydrdev/heydrdev@main
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/heydrev"
