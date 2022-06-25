@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="40" /></a>&nbsp
  <a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="40" /></a>&nbsp
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="30" /></a>&nbsp
-<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="30" /></a>&nbsp
+<a href="https://heydrdev.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="50" /></a>&nbsp
 </p>
 <!-- About Me -->
 
