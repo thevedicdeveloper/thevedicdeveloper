@@ -3,8 +3,8 @@
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="40" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="40" />.</h1>
 <p align="center">
  <a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/twitter.png"  alt="heydrdev" width="40" /></a>&nbsp
- <a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="40" /> </a> &nbsp
-<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="40" /></a>&nbsp
+ <a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="50" /> </a>&nbsp
+<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.svg"  alt="heydrdev" width="40" /></a>&nbsp
  <a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="40" /></a>&nbsp
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="30" /></a>
 </p>
