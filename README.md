@@ -35,7 +35,7 @@ I am a passionate Open Source Developer, who commits code in night and merge the
 <!-- Trending Blogs -->
 <h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="40" align="center"/> My Blogs</h1>
 
-Ocasionally I write blogs as well, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
+I write blogs as occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
  
 
 <!-- BLOG-POST-LIST:START -->
