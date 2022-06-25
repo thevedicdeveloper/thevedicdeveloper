@@ -6,7 +6,7 @@
  <a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="40" /> </a>&nbsp
 <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="40" /></a>&nbsp
  <a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="40" /></a>&nbsp
-<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="30" /></a>
+<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.png" alt="heydrdev"  width="30" /></a>
 </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=400" /></a>&nbsp&nbsp
