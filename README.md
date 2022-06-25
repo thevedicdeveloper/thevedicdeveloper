@@ -9,14 +9,4 @@
 <a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src=https://github.com/nishantkantojha/tools/blob/main/Icons/instagram.svg alt="garudaa" height="30" width="40" /></a>
 <a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src=https://github.com/nishantkantojha/tools/blob/main/Icons/twitter.svg alt="garudaa" height="30" width="40" /></a>
 
-```text
-It is not the language that makes program appear simple.
-It is the programmer that makes the language appear simple!```
-
-<img aligin="center" src="https://raw.githubusercontent.com/heydrdev/heydrdev/main/motivation.png" alt="motivation"/>
-</p>
-<p align ="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nishantkantojha/nishantkantojha" alt="visitor badge"/></p>
-
-
 
