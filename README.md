@@ -11,23 +11,23 @@ I am a passionate Open Source Developer, who commits code in night and merge the
 </p>
 
 
-<!-- Discover Me -->
-<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="40" align="center"/> Discover Me
+<!-- Connect With Me -->
+<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="40" align="center"/> Connect With Me
 </h1>
 
 <p align="center">
-<!-- Discover Me: Twitter -->
+<!-- Connect With Me: Twitter -->
 <a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/twitter.png" alt="heydrdev" width="40" /></a>&nbsp
-<!-- Discover Me: Instagram -->
+<!-- Connect With Me: Instagram -->
 <!--<a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="40" />
 </a>&nbsp-->
-<!-- Discover Me: Linkedin -->
+<!-- Connect With Me: Linkedin -->
 <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="40" /></a>&nbsp
- <!-- Discover Me: Medium -->
+ <!-- Connect With Me: Medium -->
 <a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="40" /></a>&nbsp
-  <!-- Discover Me: Buy Me A Coffee -->
+  <!-- Connect With Me: Buy Me A Coffee -->
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="30" /></a>&nbsp
-   <!-- Discover Me: Gumroad -->
+   <!-- Connect With Me: Gumroad -->
 <a href="https://heydrdev.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="50" /></a>&nbsp
 </p>
 
