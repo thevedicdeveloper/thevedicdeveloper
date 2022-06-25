@@ -1,6 +1,6 @@
 ![I am not alone  I have my CURIOSITY with me !! (3)](https://user-images.githubusercontent.com/97366282/175750962-3eda8768-d896-4793-8eab-13166ba89445.png)
 
-<h1 style = font-size: "50px" align="center"> Hi <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="40">, I'm Dr DEV</h1>
+<h1 style = font-size: "50px" align="center"> Hi <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="40">Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="40" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="40" />.</h1>
 <h4 align="center"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/face-with-monocle.gif" height="30" width="30" /> Open Source Developer |<img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" height="30" width="30" /> DevOps/Cloud Enthusiast | <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/video-game.gif" height="30" width="30" /> Game Addict</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/nishant-kant-ojha/" target="blank"><img align="center" src="https://github.com/nishantkantojha/tools/blob/main/Icons/linkedin.svg" alt="garudaa" height="30" width="40" /></a>
