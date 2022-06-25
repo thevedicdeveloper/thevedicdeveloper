@@ -4,9 +4,10 @@
 
 <!-- About Me -->
 <p align="left">
-I am a passionate Open Source Developer, who commits code in night and merge them in Day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics and Alogrithims. 
+I am a passionate Open Source Developer, who commits code in night and merge them in day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics and Alogrithims. 
 
- Ocasionally I write Blogs as well. I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b></a>.
+ I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b></a>.
+
 </p>
 
 
@@ -32,7 +33,11 @@ I am a passionate Open Source Developer, who commits code in night and merge the
 
 
 <!-- Trending Blogs -->
-<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="40" align="center"/> My Trending Blogs</h1>
+<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="40" align="center"/> My Blogs</h1>
+
+Ocasionally I write blogs as well, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
+ 
+
 <!-- BLOG-POST-LIST:START -->
 - [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 <!-- BLOG-POST-LIST:END -->
