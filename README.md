@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="left">
-I am a passionate Open Source Developer, who commits code in night and merge them in Day. The only goal of my life is to fullfill my intellecutal desire. I love to write, make friends and teach. You can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><i><b>@hyedrdev</b></i></a>
+I am a passionate Open Source Developer, who commits code in night and merge them in Day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><i><b>@hyedrdev</b></i></a>
 </p>
 
 
