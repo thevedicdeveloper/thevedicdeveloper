@@ -6,7 +6,7 @@
 <p align="left">
 I am a passionate Open Source Developer, who commits code in night and merge them in Day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics and Alogrithims. 
 
- Ocasionally I write Blogs as well. I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><i><b>@hyedrdev</b></i></a>.
+ Ocasionally I write Blogs as well. I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b></a>.
 </p>
 
 
