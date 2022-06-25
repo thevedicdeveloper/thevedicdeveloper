@@ -11,13 +11,13 @@
 <!-- About Me -->
 
 <!-- Trending Blogs -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="40" align="center"/> My Trending Blogs</h2>
+<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="40" align="center"/> My Trending Blogs</h1>
 <!-- BLOG-POST-LIST:START -->
 - [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Support Me -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face.gif" width="40" align="center"/> Liked my work.. Support me here</h2>
+<h1 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face.gif" width="40" align="center"/> Liked my work.. Support me here</h1>
 <p align="center">
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=250" /></a>&nbsp&nbsp
  <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="250" /></a>
