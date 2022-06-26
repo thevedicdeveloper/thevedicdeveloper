@@ -4,10 +4,9 @@
 
 <!-- About Me -->
 <p align="left">
-I am a passionate Open Source Developer, who commits code in night and merge them in day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Alogrithims, Economics and Geo Politics.
-
- I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b></a>.
-
+I am a passionate Open Source Developer, who commits code at night and merges it in day. The only goal of my life is to fulfill my intellectual desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Algorithms, Economics and GeoPolitics.
+ 
+I love to help others, so you can always reach out to me on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b>.
 </p>
 
 
