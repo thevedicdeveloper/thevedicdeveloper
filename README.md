@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="left">
-I am a passionate Open Source Developer, who commits code in night and merge them in day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Alogrithims, Economics, Geo Politics and Sanatam Dharma.
+I am a passionate Open Source Developer, who commits code in night and merge them in day. The only goal of my life is to fullfill my intellecutal desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Alogrithims, Economics, Geo Politics and Sanatan Dharma.
 
  I love to help others, so you can always reachout to my on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b></a>.
 
