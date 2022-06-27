@@ -38,17 +38,20 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>My Blogs</b></h2>
 
 I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
- 
 
 <!-- BLOG-POST-LIST:START -->
+
 - [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects I am working on..</b></h2>
+<p align="left">
+Comming soon...
+</p>
 
-
-
-
-
+<br>
 <!-- Support Me -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star.gif" width="30" align="left"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
