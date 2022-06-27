@@ -47,7 +47,7 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 
 
 <!-- Support Me -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face.gif" width="30" align="center"/> Liked my work, Support me here...</h2>
+<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star.gif" width="30" align="center"/> Liked my work, Support me here...</h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=250" /></a>&nbsp&nbsp
  <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="250" /></a>
