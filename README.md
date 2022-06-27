@@ -3,15 +3,18 @@
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
 
 <!-- About Me -->
+<h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32" align="left"/>&nbsp <b>About Me</b></h2>
+
 <p align="left">
 I am a passionate Open Source Developer, who commits code at night and merges it in day. The only goal of my life is to fulfill my intellectual desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Algorithms, Economics and GeoPolitics.
  
 I love to help others, so you can always reach out to me on Twitter <a href="https://twitter.com/nishantkantojha" target="blank"><b>@hyedrdev</b>.
 </p>
 
+<br>
 
 <!-- Connect With Me -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="30" align="center"/> Connect With Me
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="32" align="left"/>&nbsp <b>Connect With Me</b>
 </h2>
 
 <p align="center">
@@ -29,10 +32,10 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
    <!-- Connect With Me: Gumroad -->
 <a href="https://heydrdev.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
 </p>
-
+&nbsp
 
 <!-- Trending Blogs -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="30" align="center"/> My Blogs</h2>
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>My Blogs</b></h2>
 
 I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
  
@@ -47,7 +50,7 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 
 
 <!-- Support Me -->
-<h2 style = font-size: "50px" align="center"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star.gif" width="30" align="center"/> Liked my work, Support me here...</h2>
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star.gif" width="30" align="left"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=250" /></a>&nbsp&nbsp
  <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="250" /></a>
