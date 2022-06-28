@@ -28,27 +28,6 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 
 <br>
 
-<!-- Connect With Me -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/handshake.gif" width="32" align="left"/>&nbsp <b>Connect With Me</b>
-</h2>
-
-<p align="center">
-<!-- Connect With Me: Twitter -->
-<a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/twitter.png" alt="heydrdev" width="30" /></a>&nbsp
-<!-- Connect With Me: Instagram -->
-<!--<a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="30" />
-</a>&nbsp-->
-<!-- Connect With Me: Linkedin -->
-<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="30" /></a>&nbsp
- <!-- Connect With Me: Medium -->
-<a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="30" /></a>&nbsp
-  <!-- Connect With Me: Buy Me A Coffee -->
-<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="25" /></a>&nbsp
-   <!-- Connect With Me: Gumroad -->
-<a href="https://heydrdev.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
-</p>
-&nbsp
-
 <!-- Trending Blogs -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>My Blogs</b></h2>
 
