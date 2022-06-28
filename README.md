@@ -31,7 +31,7 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 <!--Projects I am working on -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30" align="left"/>&nbsp <b>Experience</b></h2>
 <p align="left">
-Comming soon..
+Updating soon..
 </p>
 
 <br>
@@ -49,17 +49,9 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 <br>
 
 <!--Projects I am working on -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects I am working on..</b></h2>
-<p align="left">
-Comming soon...
-</p>
-
-<br>
-
-<!--Projects I am working on -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30" align="left"/>&nbsp <b>Publicaitons</b></h2>
 <p align="left">
-Comming soon...
+Updating soon...
 </p>
 
 <br>
@@ -67,7 +59,7 @@ Comming soon...
 <!--Projects I am working on -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects</b></h2>
 <p align="left">
-Comming soon...
+Updating soon...
 </p>
 
 <br>
