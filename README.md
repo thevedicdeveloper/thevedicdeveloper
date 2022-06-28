@@ -28,6 +28,14 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 
 <br>
 
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif" width="30" align="left"/>&nbsp <b>Experience</b></h2>
+<p align="left">
+Comming soon..
+</p>
+
+<br>
+
 <!-- Trending Blogs -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>My Blogs</b></h2>
 
@@ -49,7 +57,15 @@ Comming soon...
 <br>
 
 <!--Projects I am working on -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects I am working on..</b></h2>
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif" width="30" align="left"/>&nbsp <b>Publicaitons</b></h2>
+<p align="left">
+Comming soon...
+</p>
+
+<br>
+
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects</b></h2>
 <p align="left">
 Comming soon...
 </p>
@@ -63,8 +79,16 @@ Flutter, Firebase, Mongodb, Google Cloud
 </p>
 
 <br>
+
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
+<p align="left">
+Updating soon...
+</p>
+
+<br>
 <!-- Support Me -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star.gif" width="30" align="left"/>&nbsp <b>Liked my work, Support me here...</b></h2>
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/star-struck.gif" width="30" align="left"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee-button.png" alt="heydrdev"  width=250" /></a>&nbsp&nbsp
  <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="250" /></a>
