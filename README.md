@@ -74,7 +74,7 @@ Flutter, Firebase, Mongodb, Google Cloud
 <!--Projects I am working on -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & awards</b></h2>
 <p align="left">
-Updating soon...
+<a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/badges/microsoft-certified-azure-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="100" /></a>
 </p>
 
 <br>
