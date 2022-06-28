@@ -1,4 +1,4 @@
-[![I am not alone, I have my curiosity with me !](https://user-images.githubusercontent.com/97366282/175754587-0f292172-dfbb-49ef-ac45-56afd1149629.png)](https://twitter.com/nishantkantojha)
+[![I am not alone, I have my curiosity with me !](https://user-images.githubusercontent.com/97366282/175754587-0f292172-dfbb-49ef-ac45-56afd1149629.png)](https://twitter.com/heydrdev)
 
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
 <p align="center">
