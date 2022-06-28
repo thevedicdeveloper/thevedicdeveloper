@@ -66,7 +66,7 @@ Updating soon...
 <!--My Tech Stack -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.svg" width="30" align="left"/>&nbsp  Firebase, Mongodb, Google Cloud
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.svg" width="90" align="left"/>&nbsp&nbsp  <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.svg" width="90" align="left"/>&nbsp &nbsp<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/mongodb.svg" width="90" align="left"/>&nbsp &nbsp<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/google-cloud.svg" width="90" align="left"/>&nbsp<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.svg" width="90" align="left"/>&nbsp
 </p>
 
 <br>
