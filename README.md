@@ -1,6 +1,21 @@
 [![I am not alone, I have my curiosity with me !](https://user-images.githubusercontent.com/97366282/175754587-0f292172-dfbb-49ef-ac45-56afd1149629.png)](https://twitter.com/nishantkantojha)
 
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me Dr DEV <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
+<p align="center">
+<!-- Connect With Me: Twitter -->
+<a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/twitter.png" alt="heydrdev" width="30" /></a>&nbsp
+<!-- Connect With Me: Instagram -->
+<!--<a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/instagram.png" alt="heydrdev"  width="30" />
+</a>&nbsp-->
+<!-- Connect With Me: Linkedin -->
+<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/linkedin.png"  alt="heydrdev" width="30" /></a>&nbsp
+ <!-- Connect With Me: Medium -->
+<a href="https://heydrdev.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/medium.png"  alt="heydrdev" width="30" /></a>&nbsp
+  <!-- Connect With Me: Buy Me A Coffee -->
+<a href="https://www.buymeacoffee.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/buymeacoffee.svg" alt="heydrdev"  width="25" /></a>&nbsp
+   <!-- Connect With Me: Gumroad -->
+<a href="https://heydrdev.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
+</p>
 
 <!-- About Me -->
 <h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="32" align="left"/>&nbsp <b>About Me</b></h2>
@@ -14,7 +29,7 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 <br>
 
 <!-- Connect With Me -->
-<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="32" align="left"/>&nbsp <b>Connect With Me</b>
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/handshake.gif" width="32" align="left"/>&nbsp <b>Connect With Me</b>
 </h2>
 
 <p align="center">
@@ -45,10 +60,27 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+
 <!--Projects I am working on -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects I am working on..</b></h2>
 <p align="left">
 Comming soon...
+</p>
+
+<br>
+
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/fire.gif" width="30" align="left"/>&nbsp <b>Projects I am working on..</b></h2>
+<p align="left">
+Comming soon...
+</p>
+
+<br>
+
+<!--Projects I am working on -->
+<h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
+<p align="left">
+Flutter, Firebase, Mongodb, Google Cloud
 </p>
 
 <br>
