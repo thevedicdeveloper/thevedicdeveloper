@@ -42,6 +42,7 @@ Updating soon..
 I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
 
 <!-- BLOG-POST-LIST:START -->
+- [WEEK 1 : The Beginning](https://dev.to/heydrdev/what-i-did-this-week--2ehm)
 - [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 <!-- BLOG-POST-LIST:END -->
 
