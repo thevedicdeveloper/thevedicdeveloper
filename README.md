@@ -42,7 +42,7 @@ Updating soon..
 I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
 
 <!-- BLOG-POST-LIST:START -->
-- [WEEKLY BLOG 2 : The Notion Return 🥳](https://dev.to/heydrdev/week-2-notion-return-4cka)
+- [WEEK 2 : The Notion Return 🥳](https://dev.to/heydrdev/week-2-notion-return-4cka)
 - [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
 - [How I make my GitHub Profile Interactive](https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje)
 - [WEEKLY BLOG 1 : The Beginning](https://dev.to/heydrdev/what-i-did-this-week--2ehm)
