@@ -42,11 +42,11 @@ Updating soon..
 I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
 
 <!-- BLOG-POST-LIST:START -->
+- [Show Your Desk Setup 🔥 🖥](https://dev.to/heydrdev/show-your-desk-setup-3id2)
 - [Poll 4 : First programming language ?](https://dev.to/heydrdev/poll-4-first-programming-language--1kl6)
 - [Poll 3 : Preferred IDE ?](https://dev.to/heydrdev/poll-3-preferred-ide--55fn)
 - [Poll 2 : Favorite blogging platform ?](https://dev.to/heydrdev/twitter-poll-2-6kb)
 - [Poll 1 : Favorite social media platform ?](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
-- [What&#39;s your current tech stack ? 🛠](https://dev.to/heydrdev/whats-your-current-tech-stack--512)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
