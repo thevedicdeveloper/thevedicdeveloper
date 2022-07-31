@@ -71,13 +71,14 @@ Updating soon...
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="55" height="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.png" width="46" height="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.png" width="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/docker.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/kubernetes.png" width="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/ansible.png" width="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.png" width="46" height="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/google-cloud.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/ansible.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50" align="left"/>&nbsp
