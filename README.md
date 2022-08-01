@@ -70,7 +70,7 @@ Updating soon...
 <!--My Tech Stack -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="55" height="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="60" height="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/docker.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/kubernetes.png" width="50" align="left"/>&nbsp
@@ -86,7 +86,7 @@ Updating soon...
 
 <br>
 
-<!--Honors & awards -->
+<!--Honors & Awards -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/partying-face.gif" width="30" align="left"/>&nbsp <b>Honors & Awards</b></h2>
 <p align="left">
 <a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/certificate/microsoft-certified-azure-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
