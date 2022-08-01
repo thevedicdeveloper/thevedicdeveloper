@@ -80,7 +80,8 @@ Updating soon...
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/google-cloud.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50" align="left"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50" align="left"/>
+
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50" align="left"/>&nbsp
 </p>
