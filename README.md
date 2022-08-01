@@ -86,10 +86,6 @@ Updating soon...
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50"/>&nbsp
 </td>
-<td>
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50" align="left"/>&nbsp
-</td>
 </tr>
 </table>
 </p>
