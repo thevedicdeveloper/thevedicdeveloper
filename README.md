@@ -69,6 +69,7 @@ Updating soon...
 
 <!--My Tech Stack -->
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" align="left"/>&nbsp <b>My Tech Stack</b></h2>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="60" height="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
@@ -82,7 +83,6 @@ Updating soon...
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50" align="left"/>&nbsp
-
 </p>
 
 <br>
