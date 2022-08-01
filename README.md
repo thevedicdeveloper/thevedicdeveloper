@@ -73,16 +73,20 @@ Updating soon...
 <p align="left">
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="60" height="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/docker.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/kubernetes.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/ansible.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.png" width="46" height="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/google-cloud.png" width="50" align="left"/>&nbsp
-<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50" align="left"/>&nbsp
+<td><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/red-hat.png" width="60" height="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/docker.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/kubernetes.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/ansible.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/flutter.png" width="46" height="50" >&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/firebase.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/bash.png" width="50" />&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/google-cloud.png" width="50" />&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" width="50">&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50"/>&nbsp
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/github.png" width="50" align="left"/>&nbsp
 <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" width="50" align="left"/>&nbsp
 </td>
