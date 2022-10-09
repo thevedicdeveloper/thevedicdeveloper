@@ -100,5 +100,6 @@ Updating soon...
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/thevedicdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdev/devtools/main/icons/buymeacoffee-button.png" alt="thevedicdev"  width=250" /></a>&nbsp&nbsp
- <a href="https://www.patreon.com/thevedicdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdev/devtools/main/icons/patreon-button.png" alt="thevedicdev"  width="250" /></a>
+ <a href="https://www.patreon.com/thevedicdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdev/devtools/main/icons/patreon-button.png" alt="Ko-Fi"  width="250" /></a>&nbsp&nbsp
+  <a href="https://ko-fi.com/S6S3F3U0T" target="blank"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="thevedicdev"  width="300" /></a>
 </p>
