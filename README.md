@@ -1,4 +1,4 @@
-[![I am not alone, I have my curiosity with me !](https://user-images.githubusercontent.com/97366282/175754587-0f292172-dfbb-49ef-ac45-56afd1149629.png)](https://twitter.com/thevedicdev)
+<a href="https://twitter.com/thevedicdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="thevedicdev" width="1300" height="480" /></a>
 
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me the Vedic Developer <img align="center" src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
 <p align="center">
