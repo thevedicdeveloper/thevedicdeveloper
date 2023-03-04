@@ -10,7 +10,7 @@
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/linkedin.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
  <!-- Medium -->
-<a href="https://medium.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/medium.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
+<a href="https://medium.com/@vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/medium.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
   <!-- Buy Me A Coffee -->
 <a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee.svg" alt="vedicdeveloper"  width="25" /></a>&nbsp
    <!-- Gumroad -->
