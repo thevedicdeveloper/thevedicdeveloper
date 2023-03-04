@@ -5,7 +5,7 @@
 <!-- Twitter -->
 <a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="vedicdeveloper" width="30" /></a>&nbsp
 <!-- Instagram -->
-<a href="https://www.instagram.com/vedicdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/instagram.png" alt="vedicdeveloper"  width="30" />
+<a href="https://www.instagram.com/vedic.developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/instagram.png" alt="vedicdeveloper"  width="30" />
 </a>&nbsp
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/linkedin.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
