@@ -1,20 +1,20 @@
-<a href="https://twitter.com/thevedicdeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="thevedicdeveloper" width="100%" height=auto /></a>
+<a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="vedicdeveloper" width="100%" height=auto /></a>
 
 <h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me the Vedic Developer <img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
 <p align="center">
 <!-- Twitter -->
-<a href="https://twitter.com/nishantkantojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="thevedicdeveloper" width="30" /></a>&nbsp
+<a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="vedicdeveloper" width="30" /></a>&nbsp
 <!-- Instagram -->
-<!--<a href="https://www.instagram.com/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/instagram.png" alt="thevedicdeveloper"  width="30" />
-</a>&nbsp-->
+<a href="https://www.instagram.com/vedicdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/instagram.png" alt="vedicdeveloper"  width="30" />
+</a>&nbsp
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/linkedin.png"  alt="thevedicdeveloper" width="30" /></a>&nbsp
+<a href="https://www.linkedin.com/in/nishantkantojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/linkedin.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
  <!-- Medium -->
-<a href="https://thevedicdeveloper.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/medium.png"  alt="thevedicdeveloper" width="30" /></a>&nbsp
+<a href="https://medium.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/medium.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
   <!-- Buy Me A Coffee -->
-<a href="https://www.buymeacoffee.com/thevedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee.svg" alt="thevedicdeveloper"  width="25" /></a>&nbsp
+<a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee.svg" alt="vedicdeveloper"  width="25" /></a>&nbsp
    <!-- Gumroad -->
-<a href="https://thevedicdeveloper.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
+<a href="https://vedicdeveloper.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
 </p>
 
 <!-- About Me -->
@@ -99,7 +99,7 @@ Updating soon...
 <!-- Support Me -->
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/thevedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee-button.png" alt="thevedicdeveloper"  width=250" /></a>&nbsp&nbsp
- <a href="https://www.patreon.com/thevedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/patreon-button.png" alt="Ko-Fi"  width="250" /></a>&nbsp&nbsp
-  <a href="https://ko-fi.com/S6S3F3U0T" target="blank"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="thevedicdeveloper"  width="300" /></a>
+<a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee-button.png" alt="vedicdeveloper"  width=250" /></a>&nbsp&nbsp
+ <a href="https://www.patreon.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/patreon-button.png" alt="Ko-Fi"  width="250" /></a>&nbsp&nbsp
+  <a href="https://ko-fi.com/S6S3F3U0T" target="blank"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="vedicdeveloper"  width="300" /></a>
 </p>
