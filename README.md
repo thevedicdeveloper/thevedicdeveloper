@@ -27,14 +27,6 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 
 <br>
 
-<!--Projects I am working on -->
-<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/hatching-chick.gif" width="30"/>&nbsp <b>Experience</b></h2>
-<p align="left">
-Updating soon..
-</p>
-
-<br>
-
 <!-- Trending Blogs -->
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/memo.gif" width="32"/>&nbsp <b>My Blogs</b></h2>
 
@@ -47,22 +39,6 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 - [Poll 3 : Preferred IDE ?](https://dev.to/heydrdev/poll-3-preferred-ide--55fn)
 - [Poll 2 : Favorite blogging platform ?](https://dev.to/heydrdev/twitter-poll-2-6kb)
 <!-- BLOG-POST-LIST:END -->
-
-<br>
-
-<!--Projects I am working on -->
-<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/writing-hand.gif" width="30"/>&nbsp <b>Publicaitons</b></h2>
-<p align="left">
-Updating soon...
-</p>
-
-<br>
-
-<!--Projects I am working on -->
-<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/fire.gif" width="30"/>&nbsp <b>Projects</b></h2>
-<p align="left">
-Updating soon...
-</p>
 
 <br>
 
