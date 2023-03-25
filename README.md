@@ -1,6 +1,5 @@
 <a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="vedicdeveloper" width="100%" height=auto /></a>
 
-<h1 style = font-size: "50px" align="center"> Hi, I am Nishant <img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/winking-face.gif" width="38" />. Internet calls me the Vedic Developer <img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/smiling-face-with-sunglasses.gif"  width="38" />.</h1>
 <p align="center">
 <!-- Twitter -->
 <a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="vedicdeveloper" width="30" /></a>&nbsp
