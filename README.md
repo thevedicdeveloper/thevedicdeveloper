@@ -70,6 +70,10 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 <a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
 </p>
 
+<p align="left">
+<a href="https://api.badgr.io/public/assertions/9X3VFJzoR8iyFDe6oN8NNA?identity__email=account%40vedicdeveloper.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/badges/postman-postman-api-fundamentals-students-expert.png"  alt="postman-api-fundamentals-students-expert" width="90" /></a>
+</p>
+
 <br>
 <!-- Support Me -->
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
