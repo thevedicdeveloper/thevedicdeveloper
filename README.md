@@ -71,7 +71,7 @@ I write blogs occasionally, and publish them everywhere <img src="https://raw.gi
 </p>
 
 <p align="left">
-<a href="https://api.badgr.io/public/assertions/9X3VFJzoR8iyFDe6oN8NNA?identity__email=account%40vedicdeveloper.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/badges/postman-postman-api-fundamentals-students-expert.png"  alt="postman-api-fundamentals-students-expert" width="90" /></a>
+<a href="https://api.badgr.io/public/assertions/9X3VFJzoR8iyFDe6oN8NNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/badges/postman-postman-api-fundamentals-students-expert.png"  alt="postman-api-fundamentals-students-expert" width="90" /></a>
 </p>
 
 <br>
