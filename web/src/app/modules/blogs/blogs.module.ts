@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { BlogsComponent } from './blogs.component';
+import { CardModule } from 'src/app/core/components/card/card.module';
 
 
 
@@ -9,7 +10,8 @@ import { BlogsComponent } from './blogs.component';
     BlogsComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    CardModule
   ],
   exports: [
     BlogsComponent

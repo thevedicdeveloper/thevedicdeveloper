@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./blogs.component.scss']
 })
 export class BlogsComponent {
+  public title: string;
 
+  constructor(){
+    this.title = "Introduction to Azure DevOps"
+  }
 }
