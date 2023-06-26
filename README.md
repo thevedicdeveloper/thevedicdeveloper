@@ -31,8 +31,7 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Tech Stack</b></h2>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/angular.png" width="60" height="50"/>&nbsp
-<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/flutter.png" width="46" height="50" >&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/angular.png" width="60" height="60"/>&nbsp
 <img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/firebase.png" width="50"/>&nbsp
 <img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/red-hat.png" width="60" height="50"/>&nbsp
 <img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/bash.png" width="50"/>&nbsp
