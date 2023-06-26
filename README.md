@@ -27,21 +27,6 @@ I love to help others, so you can always reach out to me on Twitter <a href="htt
 
 <br>
 
-<!-- Trending Blogs -->
-<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/memo.gif" width="32"/>&nbsp <b>My Blogs</b></h2>
-
-I write blogs occasionally, and publish them everywhere <img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/upside-down-face.gif" width="20" align="center"/>. You can find best of them over here <img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
-
-<!-- BLOG-POST-LIST:START -->
-- [P1 - What is Markdown ?](https://dev.to/vedicdeveloper/p1-understanding-markdown-390)
-- [Kubernetes For Noobs](https://dev.to/vedicdeveloper/kubernetes-for-noobs-425k)
-- [✍️ DAY 4 - My Best Investments 💰, Being a College Student 🎒](https://dev.to/vedicdeveloper/day-4-my-best-investments-being-a-college-student-2fjc)
-- [Is it OKAY to publish Daily Journal on Dev.to ?](https://dev.to/vedicdeveloper/is-it-okay-to-publish-daily-journal-on-devto--1ca6)
-- [Drop Your Best Articles Here 👇](https://dev.to/vedicdeveloper/drop-your-best-devto-article-536n)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 <!--My Tech Stack -->
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Tech Stack</b></h2>
 
