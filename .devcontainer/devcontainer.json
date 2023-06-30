@@ -1,28 +1,54 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 {
-	"name": "Node.js & TypeScript",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+	"name": "Alpine",
+	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.18",
+	"features": {
+		"ghcr.io/devcontainers/features/git:1": {},
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/devcontainers/features/azure-cli:1": {},
+		"ghcr.io/devcontainers/features/aws-cli:1": {},
+		"ghcr.io/devcontainers/features/node:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				// Fonts and Theme
+				"GitHub.github-vscode-theme",
+				"PKief.material-icon-theme",
 
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+				// Azure
+				"ms-azuretools.vscode-azurevirtualmachines",
+				"ms-azuretools.vscode-azurestorage",
+				"ms-azuretools.vscode-azurestaticwebapps",
+				"ms-azuretools.vscode-azureresourcegroups",
+				"ms-azuretools.vscode-azurefunctions",
+				"ms-azuretools.azure-dev",
+				"ms-azuretools.vscode-cosmosdb",
+				"ms-azuretools.vscode-azurecontainerapps",
+				"ms-azuretools.vscode-azureappservice",
+				"ms-vscode.azure-account",
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [4200],
-	"portsAttributes": {
-		"4200": {
-			"label": "Web App",
-			"onAutoForward": "notify"
+				// Google Cloud
+				"googlecloudtools.cloudcode",
+
+				// UI and UX
+				"figma.figma-vscode-extension",
+				"ms-edgedevtools.vscode-edge-devtools",
+
+				// Common Utitlities
+				"njzy.stats-bar",
+
+				"GitHub.vscode-pull-request-github",
+				"GitHub.codespaces",
+				"ms-vscode-remote.remote-containers",
+				"ms-azuretools.vscode-docker",
+				"ms-kubernetes-tools.vscode-kubernetes-tools",
+				"redhat.vscode-yaml",
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.csdevkit",
+				"ms-dotnettools.vscode-dotnet-runtime",
+				"ms-vscode.vscode-node-azure-pack",
+
+			]
 		}
 	}
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "yarn install",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
 }
