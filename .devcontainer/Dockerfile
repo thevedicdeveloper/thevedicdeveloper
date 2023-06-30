@@ -1,1 +1,1 @@
-FROM alpine:${VARIANT}
+FROM alpine
