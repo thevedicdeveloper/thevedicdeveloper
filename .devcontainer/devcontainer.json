@@ -3,8 +3,13 @@
         "dockerfile": "./Dockerfile",
         "context": "."
     },
+    "hostRequirements": {
+        "cpus": 2,
+        "memory": "4gb",
+        "storage": "32gb"
+    },
     "onCreateCommand": {
-
+        "install-git": "git.sh"
     },
     "features": {
         
