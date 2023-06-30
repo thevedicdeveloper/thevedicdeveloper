@@ -3,6 +3,9 @@
         "dockerfile": "./Dockerfile",
         "context": "."
     },
+    "onCreateCommand": {
+
+    },
     "features": {
         
     }
